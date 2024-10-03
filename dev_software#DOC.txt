@@ -1,0 +1,8 @@
+Dev Software
+
+1 : Altera 13.1.0.162
+>> MaxPlus II and FLEX ??
+
+2: Vivado 2024.1  
+>> Latest
+>> Spartan 7 support ??
